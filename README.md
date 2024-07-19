@@ -13,6 +13,14 @@ This application uses the Star Wars API (SWAPI) to display Star Wars characters 
 - Detailed view of characters
 - Infinite scroll in the character list
 
+### 1.3 Technology Stack
+
+- React Native: A framework for building native apps using React.
+- Expo: A toolchain for developing React Native apps that provides a set of tools and services.
+- React Navigation: A library for routing and navigation in React Native apps.
+- TypeScript: A typed superset of JavaScript that adds static types to the language.
+- Jest: A JavaScript testing framework used for writing and running tests.
+
 
 ## 2. Installation Guide
 
@@ -31,9 +39,7 @@ This application uses the Star Wars API (SWAPI) to display Star Wars characters 
 2. **Navigate to the project directory**
 
     ```bash
-    npm install
-    # or
-    yarn install
+    cd swapi-app-react-native
 
 3. **Install dependencies**
 
