@@ -28,7 +28,6 @@ This application uses the Star Wars API (SWAPI) to display Star Wars characters 
    ```bash
    git clone https://github.com/kittii9797/swapi-app-react-native.git
 
-
 2. **Navigate to the project directory**
 
     ```bash
