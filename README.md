@@ -50,7 +50,6 @@ This application uses the Star Wars API (SWAPI) to display Star Wars characters 
     # or
     yarn start
 
-
 ## 3. Project Structure
 
 ### 3.1. Folders and Files
@@ -98,7 +97,6 @@ This application uses the Star Wars API (SWAPI) to display Star Wars characters 
     npm test
     # or
     yarn test
-
 
 ## 6. Development Guide
 
