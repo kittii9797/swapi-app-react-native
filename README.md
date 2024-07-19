@@ -31,21 +31,24 @@ This application uses the Star Wars API (SWAPI) to display Star Wars characters 
 
 2. **Navigate to the project directory**
 
-npm install
-# or
-yarn install
+    ```bash
+    npm install
+    # or
+    yarn install
 
 3. **Install dependencies**
 
-npm install
-# or
-yarn install
+    ```bash
+    npm install
+    # or
+    yarn install
 
 3. **Start the application**
 
-npm start
-# or
-yarn start
+    ```bash
+    npm start
+    # or
+    yarn start
 
 
 ## 3. Project Structure
@@ -91,9 +94,10 @@ yarn start
 
 - To run the tests, use the following command:
 
-npm test
-# or
-yarn test
+    ```bash
+    npm test
+    # or
+    yarn test
 
 
 ## 6. Development Guide
